@@ -10,7 +10,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
-var guacamole_common_js_1 = require("@illgrenoble/guacamole-common-js");
+var guacamole_common_js_1 = require("@elucidia/guacamole-common-js");
 var rxjs_1 = require("rxjs");
 var services_1 = require("../services");
 var DisplayComponent = /** @class */ (function () {

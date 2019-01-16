@@ -1,5 +1,5 @@
 {
-  "name": "@illgrenoble/ngx-remote-desktop",
+  "name": "@elucidia/ngx-remote-desktop",
   "description": "ngx-remote-desktop is an Angular2+ module for connecting to a remote desktop using the guacamole protocol",
   "version": "1.4.2",
   "license": "MIT",
@@ -32,13 +32,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ILLGrenoble/ngx-remote-desktop.git"
+    "url": "git+https://github.com/elucidia/ngx-remote-desktop.git"
   },
   "author": "ILL <data@ill.fr>",
   "bugs": {
-    "url": "https://github.com/ILLGrenoble/ngx-remote-desktop"
+    "url": "https://github.com/elucidia/ngx-remote-desktop"
   },
-  "homepage": "https://github.com/ILLGrenoble/ngx-remote-desktop#readme",
+  "homepage": "https://github.com/elucidia/ngx-remote-desktop#readme",
   "keywords": [
     "angularjs",
     "angular",
@@ -51,7 +51,7 @@
   ],
   "peerDependencies": {
     "screenfull": "^3.3.2",
-    "@illgrenoble/guacamole-common-js": "0.0.1"
+    "@elucidia/guacamole-common-js": "1.0.0"
   },
   "private": false,
   "devDependencies": {
@@ -70,7 +70,7 @@
     "@angular/router": "5.0.0",
     "@compodoc/compodoc": "^1.1.5",
     "@ctrl/ngx-codemirror": "^1.1.0",
-    "@illgrenoble/guacamole-common-js": "0.0.1",
+    "@elucidia/guacamole-common-js": "1.0.0",
     "@ng-bootstrap/ng-bootstrap": "^1.0.0-beta.9",
     "@types/node": "^8.0.46",
     "@types/zen-observable": "^0.5.3",

@@ -14,7 +14,7 @@ const {
 
 const banner =
   `/**
- * ngx-remote-desktop v${APP_VERSION} (https://github.com/ILLGrenoble/ngx-remote-desktop)
+ * ngx-remote-desktop v${APP_VERSION} (https://github.com/elucidia/ngx-remote-desktop)
  * Copyright 2018
  * Licensed under MIT
  */`;
@@ -62,7 +62,7 @@ module.exports = function (env) {
       'rxjs/operators': 'rxjs/operators',
       'zone.js/dist/zone': 'zone.js/dist/zone',
       'screenfull': 'screenfull',
-      '@illgrenoble/guacamole-common-js': '@illgrenoble/guacamole-common-js'
+      '@elucidia/guacamole-common-js': '@elucidia/guacamole-common-js'
 
     },
     plugins: [

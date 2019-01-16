@@ -1,4 +1,4 @@
-import { Client, Tunnel } from '@illgrenoble/guacamole-common-js';
+import { Client, Tunnel } from '@elucidia/guacamole-common-js';
 import { BehaviorSubject, ReplaySubject, Subject } from 'rxjs';
 /**
  * Manages the connection to the remote desktop

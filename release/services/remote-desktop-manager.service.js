@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var http_1 = require("@angular/http");
-var guacamole_common_js_1 = require("@illgrenoble/guacamole-common-js");
+var guacamole_common_js_1 = require("@elucidia/guacamole-common-js");
 var rxjs_1 = require("rxjs");
 /**
  * Manages the connection to the remote desktop

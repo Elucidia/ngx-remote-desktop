@@ -4,7 +4,7 @@ There is a default that comes out of the box with the module.
 
 To use it, you need to include `release/themes/default.css` into your application. You can do this like this:
 
-`@import "~@illgrenoble/ngx-remote-desktop/release/themes/default.css";`
+`@import "~@elucidia//ngx-remote-desktop/release/themes/default.css";`
 
 ## CSS classes
 
